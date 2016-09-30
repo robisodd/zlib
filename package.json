@@ -1,0 +1,27 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "files": [
+        "dist.zip"
+    ],
+    "keywords": [],
+    "name": "zlib",
+    "pebble": {
+        "messageKeys": [],
+        "projectType": "package",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
